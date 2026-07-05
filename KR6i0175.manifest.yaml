@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0175_000.yaml, hash: 'sha256:3d0d510a80f0729f5ec25d1e647827194a1b110549798e80955628ee5f65c31e'}
-  - {seq: 1, filename: KR6i0175_001.yaml, hash: 'sha256:43c357d4970abcc9a6d42bb913b2cec81773ec888074f9a580f123d1e50f6219'}
+  - {seq: 1, filename: KR6i0175_001.yaml, hash: 'sha256:408a37326016cf934b505e93215bb7ea6b3ccbb70ca83d03956f0436fdb0122d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0175_001.markers.yaml, hash: 'sha256:bd190b7e8899ea2ab37f6e2b2baea32a3ade8cbae42ba8b64562092de1521240'}
+  - {seq: 0, role: markers, filename: assets/KR6i0175_000.markers.yaml, hash: 'sha256:a091a2e43565d42876ed0e0b41699d97175a35c894b7f2c6e77cfd9ed75212c3'}
+  - {seq: 1, role: markers, filename: assets/KR6i0175_001.markers.yaml, hash: 'sha256:335a4a75f3d08538262c0e13a9bea39ac2f8161cd6984f41955ec94bc07b32ad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 辯意長者子經
   type: juan
   level: 1
-hash: sha256:a2dd355a965fd1da23770c26694477d49020419813d9e0d8e4c5b2eb9c97178a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:03aada1a7f96c6fe1fe167f89179755cce47edac79b41de8ba880d88ab45b17a
